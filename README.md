@@ -2,8 +2,8 @@
 
 This Python script performs a web vulnerability scan for cross-site scripting (XSS) on a specified target website. It utilizes various techniques to identify potential vulnerabilities within the target site.
 
-## Screenshot
-<video src="https://github.com/SaherMuhamed/xss-vulns-scanner/blob/main/screenshots/2023-09-22%2023-22-58.mp4" controls title="Title"></video>
+## Video
+https://github.com/SaherMuhamed/xss-vulns-scanner/assets/81532683/749b5b92-8478-4777-bd7b-c50825b782a1
 
 ## Usage
 - Ensure you have Python 3.0 or later installed to run this script. Use the following command to execute the script:
